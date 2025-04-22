@@ -1,0 +1,10 @@
+numpy
+matplotlib
+tqdm
+torch
+torchvision
+gymnasium
+gymnasium[classic-control]
+ale-py
+opencv-python
+moviepy
